@@ -26,7 +26,7 @@ function defaultSpawn(cmd, args) {
 
 var defaultOptions     = {
   warn:       console.warn,
-  pathToMake: "elm-make",
+  pathToMake: __dirname + "/node_modules/elm/bin/elm-make",
   spawn:      defaultSpawn,
   yes:        undefined,
   help:       undefined,
