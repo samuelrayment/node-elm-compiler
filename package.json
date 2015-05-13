@@ -25,7 +25,6 @@
     "lodash": "3.5.0"
   },
   "dependencies": {
-    "elm": "1.4.0",
     "lodash": "3.5.0"
   }
 }
